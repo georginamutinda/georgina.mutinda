@@ -3,4 +3,6 @@ Bread
 Bananas
 Eggs
 Oil
+Vegetables
+Bacon
 
